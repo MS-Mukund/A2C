@@ -1,0 +1,99 @@
+{
+    "os": "Linux-5.19.0-32-generic-x86_64-with-glibc2.35",
+    "python": "3.10.8",
+    "heartbeatAt": "2023-02-23T18:15:38.001265",
+    "startedAt": "2023-02-23T18:15:28.940524",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "A2C-jvsc-3dbc74d9-7889-4128-81d4-66cc11d7512f8b79a690-e352-4ef1-83ba-b80d801e7c0e.ipynb",
+    "root": "/home/mekasaimukund/A2C",
+    "host": "mekasaimukund-IdeaPad-L340-15IRH-Gaming",
+    "username": "mekasaimukund",
+    "executable": "/home/mekasaimukund/miniconda3/envs/nn/bin/python",
+    "cpu_count": 6,
+    "cpu_count_logical": 12,
+    "cpu_freq": {
+        "current": 1.09975,
+        "min": 800.0,
+        "max": 2600.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 1.167,
+            "min": 800.0,
+            "max": 2600.0
+        },
+        {
+            "current": 1.17,
+            "min": 800.0,
+            "max": 2600.0
+        },
+        {
+            "current": 1.2,
+            "min": 800.0,
+            "max": 2600.0
+        },
+        {
+            "current": 1.2,
+            "min": 800.0,
+            "max": 2600.0
+        },
+        {
+            "current": 1.2,
+            "min": 800.0,
+            "max": 2600.0
+        },
+        {
+            "current": 1.199,
+            "min": 800.0,
+            "max": 2600.0
+        },
+        {
+            "current": 1.2,
+            "min": 800.0,
+            "max": 2600.0
+        },
+        {
+            "current": 1.2,
+            "min": 800.0,
+            "max": 2600.0
+        },
+        {
+            "current": 1.2,
+            "min": 800.0,
+            "max": 2600.0
+        },
+        {
+            "current": 1.2,
+            "min": 800.0,
+            "max": 2600.0
+        },
+        {
+            "current": 1.199,
+            "min": 800.0,
+            "max": 2600.0
+        },
+        {
+            "current": 1.2,
+            "min": 800.0,
+            "max": 2600.0
+        }
+    ],
+    "disk": {
+        "total": 119.64294052124023,
+        "used": 103.0879020690918
+    },
+    "gpu": "NVIDIA GeForce GTX 1650",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce GTX 1650",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 7.6821441650390625
+    }
+}

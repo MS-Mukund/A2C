@@ -1,0 +1,4 @@
+/home/mekasaimukund/.local/lib/python3.10/site-packages/gym/envs/registration.py:555: UserWarning: [33mWARN: The environment CartPole-v0 is out of date. You should consider upgrading to version `v1`.
+  logger.warn(
+/tmp/ipykernel_13944/681040532.py:79: UserWarning: Using a target size (torch.Size([32, 1])) that is different to the input size (torch.Size([1])). This will likely lead to incorrect results due to broadcasting. Please ensure they have the same size.
+  critic_loss = F.mse_loss(self.critic(obser), ret)
